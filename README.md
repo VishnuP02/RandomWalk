@@ -1,5 +1,5 @@
 # RandomWalk
-___________________________________________________________________
+
 ### Description:
 This project implements a simulation of random walks in a square grid using Java. The simulation involves taking steps in random directions, staying within the grid's boundaries. The project consists of a RandomWalk class and two client programs: DrunkenWalk.java and Collisions.java. The project models random movements and detects when particles collide or when drunks fall off the platform.
 
